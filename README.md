@@ -7,7 +7,7 @@
 **Langkah-langkah :**
 1.  Konversi Warna : Ubah saluran warna dari BGR ke RGB dan dari BGR ke 
     skala abu-abu, lalu dari skala abu-abu ke biner menggunakan ambang batas.
-2.  Plot Histogram : Visualisasikan histogram dari gambar asli dan gambar 
+2.  Plot Histogram : Visualisasikan histogram dari gambar asli dan gambar .
     greyscale untuk analisis distribusi intensitas.
 3.  Pooling dan Block Reduce :
    -  Gunakan block_reduce()dengan fungsi np.minuntuk operasi min pooling 
